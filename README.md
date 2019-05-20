@@ -239,3 +239,5 @@ FROM users AS usr;
 [PostgreSQL Sample Database
 ](http://www.postgresqltutorial.com/postgresql-sample-database/)
 [ERM](http://www.ccs.neu.edu/home/kathleen/classes/cs3200/2-ERM2014.pdf)
+
+[Database Normalization](https://www.studytonight.com/dbms/database-normalization.php)

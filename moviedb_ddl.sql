@@ -39,7 +39,7 @@ CREATE TABLE actors (
   birth_date DATE,
   bio TEXT,
   country_id INTEGER,
-  FOREIGN KEY (country_id) REFERENCES countries(id)
+  FOREIGN KEY (country_id) REFERENCES countries(id) ON DELETE CASCADE
 );
 
 CREATE TABLE movie_languages (
